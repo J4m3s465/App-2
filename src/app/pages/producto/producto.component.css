@@ -1,0 +1,12 @@
+.container {
+    max-width: 600px;
+    background-color: #f9f9f9;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    width: 100%;
+}

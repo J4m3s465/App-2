@@ -1,0 +1,41 @@
+{
+  "producto": [
+    {
+      "id": 1,
+      "nombre:": "laptop",
+      "categoria": "tecnología",
+      "precio": 300
+    },
+    {
+      "id": 1,
+      "nombre:": "tablet",
+      "categoria": "tecnología",
+      "precio": 250
+    },
+    {
+      "id": "4",
+      "nombre": "Celular",
+      "categoria": "Iphone",
+      "precio": "1200"
+    },
+    {
+      "id": "5",
+      "nombre": "Ipod",
+      "categoria": "Reproductor",
+      "precio": "50000"
+    },
+    {
+      "id": "6",
+      "nombre": "Paifon",
+      "categoria": "Celular",
+      "precio": "3000"
+    },
+    {
+      "id": "7",
+      "nombre": "A20",
+      "categoria": "Ssamsung",
+      "precio": "340"
+    }
+  ],
+  "cliente": []
+}
